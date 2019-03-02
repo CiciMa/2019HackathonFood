@@ -1,1 +1,2 @@
-test for food app
+2019 DaHackathon Project
+https://dahackathon.splashthat.com
